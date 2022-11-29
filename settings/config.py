@@ -1,8 +1,9 @@
 import os
 from emoji import emojize
+import local_settings
 
 # TG bot token
-TOKEN = '5747634762:AAEJISx_nENfzYfCXccPo1JpANf3sRNjx1g'
+TOKEN = local_settings.TOKEN
 
 # DB name
 NAME_DB = 'products.db'

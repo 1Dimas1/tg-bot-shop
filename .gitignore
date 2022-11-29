@@ -64,6 +64,7 @@ cover/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+.db
 
 # Flask stuff:
 instance/
@@ -168,4 +169,4 @@ cython_debug/
 poetry.toml
 
 
-# End of https://www.toptal.com/developers/gitignore/api/python
+.idea
